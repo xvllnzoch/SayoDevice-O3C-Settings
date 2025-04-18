@@ -1,6 +1,6 @@
 ﻿using System;
 
-class SayoDeviceO3C
+class Settings
 {   // in case I lost the Original
     // Rapid trigger settings (sayo_backup_ikuyo_kita)
 
